@@ -1,7 +1,3 @@
-Here's a complete **`README.md`** and project description for your Image Encryption/Decryption Tool using permutation and key-based transformation, which also includes a GUI built with Tkinter:
-
----
-
 # 🖼️ Image Encryption & Decryption Tool (Python GUI)
 
 ## 🔐 Description
