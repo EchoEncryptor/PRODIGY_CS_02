@@ -27,14 +27,6 @@ Decryption reverses the process using the same key.
 
 ---
 
-## 📸 Demo
-
-| Encrypt | Decrypt |
-|--------|---------|
-| ![Encryption](https://via.placeholder.com/200x150.png?text=Encrypted) | ![Decryption](https://via.placeholder.com/200x150.png?text=Decrypted) |
-
----
-
 ## 🚀 How to Run
 
 ### ✅ Requirements
