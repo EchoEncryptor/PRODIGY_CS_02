@@ -83,6 +83,3 @@ image_cipher_gui.py     # Main script with GUI and logic
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Let me know if you'd like a version with **drag-and-drop functionality**, **CLI support**, or integration with other image formats like `.tiff` or `.webp`.
