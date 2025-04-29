@@ -1,4 +1,4 @@
-# 🖼️ Image Encryption & Decryption Tool (Python GUI)
+# 🖼️ Image Encryption & Decryption Tool
 
 ## 🔐 Description
 
